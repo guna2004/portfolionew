@@ -1,1 +1,2 @@
-# portfolionew
+# Hi  this is my portfolio 
+This Website Describes my skills,Projects i've done and what i am capable of....
